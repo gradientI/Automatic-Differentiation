@@ -1,4 +1,5 @@
 # Automatic-Differentiation
+IGNORE things in nn.cpp
 A "Non-working" automatic differentiation library (forward and reverse mode) with unoptimized recursive implementation
 
 In the forward sweep the local gradients are calculated and intermediate nodes are created, the nodes which created the intermediate node are parents of the intermediate node and so on.
