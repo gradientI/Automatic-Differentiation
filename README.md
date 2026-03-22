@@ -1,2 +1,2 @@
 # Automatic-Differentiation
-A Non-working automatic differentiation library (forward and reverse mode) with unoptimized implementation
+A Non-working automatic differentiation library (forward and reverse mode) with unoptimized recursize implementation
